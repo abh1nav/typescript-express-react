@@ -3,7 +3,8 @@ Skeleton project to get started with an Express server + a React app in TypeScri
 To get started:
 
 1. Clone this repo.
-2. `make`
+2. `make install`  
+3. `make`  
 
 ## How does this work?
 
